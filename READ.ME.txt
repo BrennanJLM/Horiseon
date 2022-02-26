@@ -3,11 +3,11 @@ The purpose of this challenge was to take an existing piece of code and ensure t
 
 Installation:
 
-In order to access the files needed to complete the challenge see: https://github.com/CorySillaots/module-1-challenge and clone either the following HTTPS link or SSH key:
+In order to access the files needed to complete the challenge see: https://github.com/BrennanJLM/Horiseon challenge and clone either the following HTTPS link or SSH key:
 
-HTTPS Link: https://github.com/CorySillaots/module-1-challenge.git
+HTTPS Link: https://github.com/BrennanJLM/Horiseon.git
 
-SSH Key: git@github.com:CorySillaots/module-1-challenge.git
+SSH Key: git@github.com:BrennanJLM/Horiseon.git
 
 In order to clone the project to a "projects" directory, open your terminal (mac) or gitbash (windows) window and type the following commands into your terminal/gitbash command line:
 
@@ -29,13 +29,15 @@ Usage
 - Notes were added to both index.html and style.css in order to navigate through the code more easily.
 
 Collaborators and References
-- Brennen Merrett
-    (provide GitHub Link)
+- Cory Sillaots
+    https://github.com/CorySillaots
 - Run Buddy Project Code
     University Of Toronto SCS Coding Boot Camp
+- W3 Schools Online Web Tutorials
+    https://www.w3schools.com/
 
 License
-Copyright 2022, Cory Sillaots
+Copyright 2022, Brennan Merrett
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
