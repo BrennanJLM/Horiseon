@@ -7,7 +7,7 @@ body {
     background-color: #D9DCD6;
 }
 /*apply styles to header*/
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2A607C;
